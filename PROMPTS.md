@@ -1,0 +1,4 @@
+in my task thiers a space given for adding something, my task was to make a website page design.They recommanded this -- Sponsors, Venue, FAQ, Newsletter Signup, Hackathon Details, Past Highlights, Job Board etc, But i think past highlight and sponosors will be better, now you tell me what you will add if you were a student like me.i know a bit about transation property, and i like to add it on that section, so you will also help me to add this.
+
+
+now im giving you a task , do that by yourself and think im the teacher who send you this, give me the html and css code that you will use.Use easy transation property and make it simple so that i could understand.
