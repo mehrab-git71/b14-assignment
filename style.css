@@ -59,7 +59,10 @@ nav{
     height: 25px;
     padding: 10px;
 }
-
+.list-item:hover{
+    /* background-color: #a5bdf0; */
+    background-color: #EDE9FE;
+}
 .button-nav button{
     width: 150px;
     height: 55px;
