@@ -425,12 +425,12 @@ footer{
  }
  .left ul li{
     list-style-type:none;
-    
+     font-family: Inter;
     color:whitesmoke ;
 
  }
  .left h3{
-    
+     font-family: Inter;
     /* color: whitesmoke; */
     color: #FFFFFF;
  }
